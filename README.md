@@ -3,11 +3,9 @@
 > We know that someone has to write software to defend privacy,
 > and since we can't get privacy unless we all do, we're going to write it.
 
-## About me
-
-I'm Daniela, a developer at [Revault](https://revault.dev). We're trying to make Bitcoin HODLing and spending safer for istitutions, mitigating the most common attacks they are susceptible to.
-
 ## Quick facts
+
+₿ I work on Bitcoin
 
 🌱 I like Math. And also Computer Science. And also Bitcoin. And also watercolor painting. And also language learning 🇩🇪🇪🇸.
 
