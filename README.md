@@ -7,7 +7,7 @@
 
 ₿ I work on Bitcoin
 
-🌱 I like Math. And also Computer Science. And also Bitcoin. And also watercolor painting. And also language learning 🇩🇪🇪🇸.
+🌱 I like Math. And also Computer Science. And also Bitcoin. And also watercolor painting. And also language learning 🇩🇪🇪🇸🇵🇹.
 
 🦀 I don't like garbage collectors
 
