@@ -1,21 +1,17 @@
-# Yoo 👋🏻
+# Hi :)
 
 > We know that someone has to write software to defend privacy,
 > and since we can't get privacy unless we all do, we're going to write it.
 
-## Quick facts
-
 ₿ I work on Bitcoin
-
-🌱 I like Math. And also Computer Science. And also Bitcoin. And also watercolor painting. And also language learning 🇩🇪🇪🇸🇵🇹.
 
 🦀 I don't like garbage collectors
 
-✒️ I sometimes write stuff on my [blog](https://danielabrozzoni.com)
-
-🇮🇹 I don't like fascism 🤡
+✒️ I have a [blog](https://danielabrozzoni.com)
 
 🐦 [@danielabrozzoni](https://twitter.com/danielabrozzoni)
+
+📫 danielabrozzoni@protonmail.com
 
 <!--
 **danielabrozzoni/danielabrozzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
