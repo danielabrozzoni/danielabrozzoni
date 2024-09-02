@@ -3,11 +3,11 @@
 > We know that someone has to write software to defend privacy,
 > and since we can't get privacy unless we all do, we're going to write it.
 
-₿ I work on Bitcoin
+₿ Bitcoin developer
 
-🦀 I don't like garbage collectors
+✈️ [My Telegram channel](https://t.me/danielapow)
 
-✒️ I have a [blog](https://danielabrozzoni.com)
+✒️ [danielabrozzoni.com](https://danielabrozzoni.com)
 
 🐦 [@danielabrozzoni](https://twitter.com/danielabrozzoni)
 
