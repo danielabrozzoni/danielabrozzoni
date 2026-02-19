@@ -1,9 +1,10 @@
 # Hi :)
 
-> We know that someone has to write software to defend privacy,
-> and since we can't get privacy unless we all do, we're going to write it.
+> We don't much care if you don't approve of the software we write.
+>
+> We know that software can't be destroyed and that a widely dispersed system can't be shut down.
 
-₿ Bitcoin developer
+₿ I work on Bitcoin Core
 
 ✈️ [My Telegram channel](https://t.me/danielapow)
 
@@ -12,18 +13,3 @@
 🐦 [@danielabrozzoni](https://twitter.com/danielabrozzoni)
 
 📫 danielabrozzoni@protonmail.com
-
-<!--
-**danielabrozzoni/danielabrozzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
